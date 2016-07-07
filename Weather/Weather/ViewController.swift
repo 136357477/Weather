@@ -31,7 +31,7 @@ class ViewController: UIViewController {
 
     func loadWeather(){
         
-        
+//        爽肤水
         let url = NSURL(string: "http://www.weather.com.cn/data/sk/101010100.html")
 //        var error = NSError?
         do {
